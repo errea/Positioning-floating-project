@@ -25,7 +25,7 @@ Skills Revived & Learned:
 - Position, Flex, Floats
 - Embeds and image manipulating
 
-![screenshot](./assets/The-New-York-Times.png)
+![screenshot](./assets/The_New_York_Times.png)
 
 ## Built With
 
