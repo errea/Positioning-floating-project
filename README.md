@@ -41,22 +41,37 @@ Skills Revived & Learned:
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+1. Vs code
+
+2. Terminal (Bash)
+
+3. Linter tests
+
 ### Setup
+
+Setup by  following the installation instructions below 
 
 ### Install
 
-### Usage
+ Run this npm package to install dependencies
+ => npm install --save-dev hint@6.0.x
+ => npm install --save-dev stylelint@13.3.x stylelint-scss@3.17.x stylelint-config-standard@20.0.x stylelint-csstree-validator
 
 ### Run tests
 
+run test with linters
+=> Webhint
+=> Stylelint
+=> Lighthouse
+
 ### Deployment
+
+Deloped  project using Netlify 
+[Live Demo Link](https://hardcore-hodgkin-3a83ed.netlify.app/)
 
 ## Authors
 
