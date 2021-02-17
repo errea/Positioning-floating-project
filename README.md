@@ -35,7 +35,8 @@ Skills Revived & Learned:
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/errea)
+[Link Github Repo](https://github.com/errea)
+[Live Demo Link](https://hardcore-hodgkin-3a83ed.netlify.app/)
 
 ## Getting Started
 
@@ -61,14 +62,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Eri-Ngozi**
 
 - GitHub: [@githubhandle](https://github.com/errea)
-- Twitter: [@twitterhandle](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://linkedin.com/)
-
-👤  **Abdelrahman**
-
-- GitHub: [@githubhandle](https://github.com/)
-- Twitter: [@twitterhandle](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://linkedin.com/)
+- Twitter: [@twitterhandle](https://twitter.com/Erreakay)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eri-ngozi-okereafor/)
 
 ## 🤝 Contributing
 
