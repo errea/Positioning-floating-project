@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name: The New York Times - Article Page
 
@@ -83,4 +84,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://mit-license.org/) licensed.
+This project is [MIT](https://mit-license.org/) licensed
