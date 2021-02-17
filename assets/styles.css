@@ -129,7 +129,6 @@ nav {
   margin: 0 auto;
 }
 
-
 .article {
   display: flex;
   padding-top: 50px;
@@ -250,7 +249,6 @@ figcaption span {
   line-height: 1.125rem;
 }
 
-
 .bicep2-telescope {
   width: 100%;
   margin-right: 7px;
@@ -264,7 +262,6 @@ figcaption span {
   width: 550px;
   height: 319px;
 }
-
 
 .theory {
   margin: 0 auto;
