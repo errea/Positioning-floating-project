@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "This Project is to create a clone of the New York Times Website. Link to the original website  https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errea/Positioning-floating-project.git"
+  },
+  "author": "Eri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/errea/Positioning-floating-project/issues"
+  },
+  "homepage": "https://github.com/errea/Positioning-floating-project#readme",
+  "devDependencies": {
+    "hint": "^6.0.7",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.17.2"
+  }
+}
